@@ -1,20 +1,49 @@
-<h1>Say hello to .carlisle!</h1>
+# .carlisle
 
-<h4>An extremely lightweight UI, built to comsume OpenAI's Assistant APIs, currently in Beta.</h4>
+An extremely lightweight UI, built to comsume OpenAI's Assistant API's
+
+## Description
+
+With a minimilist, cyber-punk theme taken straight from the 80's, this lightweight application is perfect for interacting with your personal assistant.
+
+## Getting Started
+
+### Dependencies
+
+* Built with Swift 5, using SwiftUI, in Xcode.
+
+* You'll need your own OpenAI API key and to have already created an AI Assistant. Creating the Assistant can be done either through OpenAI's developer UI, or through their endpoint.
+
+### Installing
+
+Must be built onto personal iPhone, using Xcode
+
+### Executing program
+
+* Must be built onto personal iPhone, using Xcode.
+
+## Help
+
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
+
+## Authors
+
+Contributors names and contact info
+
+Chris Brannon
 
 
-<h5>With a minimilist, cyber-punk theme taken straight from the 80's, this lightweight application is perfect for interacting with your personal assistant.</h5>
+## Version History
 
-<img width="242" alt="Phone2" src="https://github.com/clbrannon/carlisle/assets/96803421/9ea093e5-4e8e-48f6-9377-e943c9af8a4b">
+* 0.1
+    * First
 
-<img width="247" alt="Phone1" src="https://github.com/clbrannon/carlisle/assets/96803421/8c6886ba-98ea-4ae0-a04b-4cddf339f96b">
 
-<h5>Currently, only a single message appears on the screen at a time, but the capability to pull multiple messages is already coded. Future features include</h5>
+## License
 
-  <ul>
-  <li>Viewing and donwloading logs of previous conversation.</li>
-  <li>Allowing .carlisle to read/write to a local database, such as to-do lists, plans, or any other information that you ask for and want recorded for both you and .carlisle to reference.</li>
-  <li>Editing .carlisle's personality in-app.</li>
-  <li>Theme Adjustment.</li>
-  <li>Sending images.</li>
-  </ul>
+Open Source, feel free to fork to run or build your own project.
+
+
