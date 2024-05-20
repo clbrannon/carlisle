@@ -27,6 +27,8 @@ Must be built onto personal iPhone, using Xcode.
 
 * Runs as iPhone application.
 
+* Simply type prompt, and the application will make all necessary API calls. A response will be returned momentarily.
+
 
 ## Authors
 
@@ -42,6 +44,6 @@ Chris Brannon
 
 ## License
 
-OpenSource, feel free to fork, or contribute to this project.
+OpenSource, feel free to fork or contribute to this project.
 
 
