@@ -6,9 +6,9 @@ An extremely lightweight UI, built to comsume OpenAI's Assistant API's
 
 With a minimilist, cyber-punk theme taken straight from the 80's, this lightweight application is perfect for interacting with your personal assistant.
 
-(images/phone1.png)
+![phone1](images/phone1.png)
 
-(images/phone2.png)
+![phone2](images/phone2.png)
 
 ## Getting Started
 
