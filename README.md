@@ -17,7 +17,7 @@ With a minimilist, cyber-punk theme taken straight from the 80's, this lightweig
 * Swift 5 + SwiftUI, in Xcode.
 * iPhone
 
-* You'll need your own OpenAI API key and to have already created an AI Assistant. Creating the Assistant can be done either through OpenAI's developer UI, or through their endpoint.
+* You'll need your own OpenAI API key and to have already created an AI Assistant. Creating the Assistant can be done either through OpenAI's developer UI, or through their endpoint. Uncomment and add information to Carlisle/Backend/Credentials.swift
 
 ### Installing
 
